@@ -9,4 +9,4 @@ Estos procesos y sus resultados pueden ser visualizados en el cuaderno de notas 
 ### Fuente de Datos
 Los datos de las listas de asistencia fueron proporcionados por el Proyecto Redd+ con una matriz de asistencia dividida en los territorios indígenas del país. El código base utilizado fue implementado en el curso GF-0657 Programación en SIG 2022-II impartido por el profesor Manuel Vargas del Valle. 
 
-En el siguiente enlace se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter también adjunto en el repositorio. Enlace [NBviewer](https://nbviewer.org/github/09StevenG/TI-Talleres/blob/main/Asistencia%20Telleres%202021-2022.ipynb) 
+En el siguiente enlace se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter también adjunto en el repositorio. Enlace [NBviewer](https://nbviewer.org/github/09StevenG/Tallereslist/blob/main/VisualizarTalleres.ipynb) 
